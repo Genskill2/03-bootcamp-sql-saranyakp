@@ -47,4 +47,4 @@ INSERT INTO books_subjects VALUES
         (7,5),
         (7,8),
         (8,8),
-        (8,9);
+        (8,9); 
